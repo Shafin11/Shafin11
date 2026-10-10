@@ -1,357 +1,268 @@
-
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<!-- ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3A7E,50:1D4ED8,100:0EA5E9&height=240&section=header&text=Mohammad%20Omar%20Raihan&fontSize=44&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Graduate%20%E2%80%A2%20Machine%20Learning%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20IT&descAlignY=60&descSize=17" width="100%" alt="Mohammad Omar Raihan"/>
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:141414,100:57534E&amp;height=230&amp;section=header&amp;text=Mohammad%20Omar%20Raihan&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=40&amp;desc=Computer%20Science%20%7C%20Machine%20Learning%20%7C%20Data%20Science&amp;descAlignY=63&amp;descSize=16"
-  width="100%"
-  alt="Mohammad Omar Raihan"
-/>
-
-<br/>
-
-<!-- ANIMATED TYPING INTRODUCTION -->
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=1100&amp;color=E5E7EB&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Machine+Learning+%26+Data+Science;Software+Development+%26+Databases;IT+Operations+%26+Project+Management;Building+Solutions+Through+Technology"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=1100&amp;color=374151&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Machine+Learning+%26+Data+Science;Software+Development+%26+Databases;IT+Operations+%26+Project+Management;Building+Solutions+Through+Technology"
-  />
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3200&amp;pause=1100&amp;color=374151&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Machine+Learning+%26+Data+Science;Software+Development+%26+Databases;IT+Operations+%26+Project+Management;Building+Solutions+Through+Technology"
-    alt="Professional interests"
-  />
-</picture>
-
-<br/>
-
-<a href="mailto:omarshafin12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-374151?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
-</a>
 <a href="https://github.com/Shafin11">
-  <img src="https://img.shields.io/badge/GitHub-Shafin11-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Hi+there%2C+I'm+Omar+%F0%9F%91%8B;Machine+Learning+%26+Data+Science;Turning+data+into+useful+decisions;IT+Operations+%26+Project+Management;Always+learning%2C+always+building" alt="Typing intro"/>
 </a>
 
-<br/><br/>
+<br/>
 
-*Exploring the intersection of intelligent systems, data-driven decisions, and practical technology solutions.*
+<!-- Replace YOUR-LINKEDIN-ID with your LinkedIn profile ID -->
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:omarshafin12@gmail.com"><img src="https://img.shields.io/badge/Email-omarshafin12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Shafin11"><img src="https://img.shields.io/badge/GitHub-Shafin11-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0B3A7E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- ===================== ABOUT ===================== -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt=""/> About Me
 
-I'm **Mohammad Omar Raihan**, a Computer Science graduate from **BRAC University, Bangladesh**, with academic project experience in machine learning, data analysis, computational biology, and web development.
+I'm **Mohammad Omar Raihan**, a Computer Science graduate from **BRAC University**. My work sits where data, machine learning and practical problem-solving meet, from forecasting air pollution and mapping vegetation from satellite images to finding gene regulatory networks for my undergraduate thesis.
 
-Beyond academic research, I have professional experience in **IT operations and technical support** at Bengal Media Corporation Ltd. (Rtv), and **project management** at Bangladesh Medical University.
+Alongside academic projects, I have hands-on work experience in **IT operations** at Bengal Media Corporation Ltd. (Rtv) and **project management** at Bangladesh Medical University. I enjoy learning fast, working with people, and building things that are actually useful.
 
-My interests lie in using technology to solve meaningful problems—from predicting environmental conditions and interpreting biological data to building software applications and improving organizational systems.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🎓 **Education:** B.Sc. in Computer Science, BRAC University
-- 🔬 **Research interests:** Machine Learning, Data Science, Multimodal Learning, Computational Biology
-- 🛠️ **Technical interests:** Python, Data Analytics, Software Development, Databases
-- 💼 **Professional background:** IT Operations, Technical Support, Project Management
-- 🌱 **Focus:** Strengthening my engineering and analytical skills through practical projects
-- 📍 **Based in:** Dhaka, Bangladesh
+- 🎓 **B.Sc. in Computer Science**, BRAC University
+- 🔬 **Research:** Machine Learning, Multimodal Learning, Computational Biology
+- 📊 **Data:** Analysis, Visualisation, Predictive Modelling
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🧭 My Professional Journey
+- 💼 **Experience:** IT Operations, Technical Support, Project Management
+- 🌱 **Currently:** Sharpening my ML and engineering skills through projects
+- 🗣️ **Languages:** Bengali (Native), English (Fluent, IELTS 6.5)
+
+</td>
+</tr>
+</table>
+
+<!-- ===================== TECH STACK ===================== -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,anaconda,django,html,css,bootstrap,jquery,mysql,sqlite,git,github,vscode,latex&perline=8" alt="Tech stack icons"/>
+
+<br/><br/>
+
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white)
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</div>
+
+<!-- ===================== RESEARCH ===================== -->
+## 🔬 Featured Research
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧬 Multimodal Bridge Framework for GRN Discovery
+![Thesis](https://img.shields.io/badge/Undergraduate-Thesis-0B3A7E?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-2563EB?style=flat-square)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-16A34A?style=flat-square)
+
+A dual-encoder framework that brings **RNA-seq gene expression** and **CRISPR knockout dependency** data into a shared 128-dimensional space to discover tissue-specific gene regulatory networks.
+
+**Key ideas:** representation learning, MMD alignment, GENIE3, Spearman correlation, embedding similarity.
+
+[**→ Explore the research**](https://github.com/Shafin11/Multimodal-Bridge-Framework-for-Gene-Regulatory-Network-Discovery)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Next-Hour Urban PM2.5 Forecasting
+![ML](https://img.shields.io/badge/Machine_Learning-2563EB?style=flat-square)
+![Environment](https://img.shields.io/badge/Environmental_Data-0D9488?style=flat-square)
+![Team](https://img.shields.io/badge/Team-Project-64748B?style=flat-square)
+
+Forecasts next-hour PM2.5 air pollution using hourly data from **12 Beijing monitoring stations (2013–2017)**. Compares Linear Regression, Decision Tree, Random Forest and XGBoost against a persistence baseline with time-ordered splits and rolling validation.
+
+**Result:** Linear Regression reached **R² ≈ 0.95**, showing simple models can match complex ones for short-term forecasts.
+
+[**→ Explore the project**](https://github.com/Shafin11/Machine-Learning-Based-Prediction-of-Urban-PM2.5-Concentration)
+
+</td>
+</tr>
+</table>
+
+<!-- ===================== ML PROJECTS ===================== -->
+## 🤖 Machine Learning & Data Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🛰️ Satellite Land Cover & Vegetation
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ResNet-50](https://img.shields.io/badge/ResNet--50-2563EB?style=flat-square)
+
+Land cover classification on the **EuroSAT** dataset using **ResNet-50 transfer learning**, plus image-based vegetation coverage analysis.
+
+[**→ View repo**](https://github.com/Shafin11/Vegetation-Detection-Using-Satellite-Imagery-)
+
+</td>
+<td width="33%" valign="top">
+
+### 📈 Retail Selling Price Prediction
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Regression](https://img.shields.io/badge/Regression-16A34A?style=flat-square)
+
+EDA, feature encoding and scaling on a multi-store retail dataset, then regression and neural network models to predict selling price.
+
+[**→ View repo**](https://github.com/Shafin11/EDA-Selling-Price-Prediction)
+
+</td>
+<td width="33%" valign="top">
+
+### 🩺 Clinical Outcome Prediction
+![Classification](https://img.shields.io/badge/Classification-8B5CF6?style=flat-square)
+![1M+ records](https://img.shields.io/badge/1M%2B-Records-64748B?style=flat-square)
+
+Cleaned about **1 million COVID-19 patient records** and compared six classifiers (Logistic Regression, KNN, Decision Tree, Random Forest, AdaBoost, Linear SVM).
+
+[**→ View repo**](https://github.com/Shafin11/Behavior-Based-Grade-Prediction-Time-Series-Neural-Network)
+
+</td>
+</tr>
+</table>
+
+<!-- ===================== SOFTWARE PROJECTS ===================== -->
+## 💻 Software & Database Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🛒 E-Commerce Website
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+A Django-based clothing store project with product browsing, customer and seller pages, and database-backed retail operations.
+
+[**→ View repo**](https://github.com/Shafin11/E-Commerce-Website)
+
+</td>
+<td width="33%" valign="top">
+
+### 📚 Online Library Management System
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+A relational database with **13 tables** covering books, copies, members, borrowing, payments and vendors, with ER and schema diagrams.
+
+[**→ View repo**](https://github.com/Shafin11/Online-Library-Management-System)
+
+</td>
+<td width="33%" valign="top">
+
+### 🐟 Eat The Fish Game
+![OpenGL](https://img.shields.io/badge/PyOpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+
+A 2D arcade game built with PyOpenGL and GLUT, using midpoint drawing algorithms, real-time animation and collision detection.
+
+[**→ View repo**](https://github.com/Shafin11/Eat-The-Fish-Game)
+
+</td>
+</tr>
+</table>
+
+<!-- ===================== EXPERIENCE ===================== -->
+## 🧭 Experience
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 💻 Executive – IT
+**Bengal Media Corporation Ltd. (Rtv)**<br/>
+<sub>Apr 2026 – Sep 2026 · Dhaka</sub>
 
-**Bengal Media Corporation Ltd. (Rtv)**
-
-*April 2026 – September 2026*
-
-- Provided hardware, software, network, and system support.
-- Maintained IT infrastructure and user accounts.
-- Supported daily office and broadcast operations.
-- Managed technology resources and software access.
+- Gave hardware, software, network and system support to staff across departments
+- Maintained IT systems, network infrastructure and user accounts
+- Kept daily office and broadcast operations running smoothly
+- Managed technology resources and software access
 
 </td>
 <td width="50%" valign="top">
 
 ### 📋 Project Manager
+**Department of Pharmacology, Bangladesh Medical University**<br/>
+<sub>Sep 2025 – Jan 2026 · Dhaka</sub>
 
-**Bangladesh Medical University**
-
-*September 2025 – January 2026*
-
-- Coordinated a clinical pharmacology modernization project.
-- Supported laboratory and digital platform development.
-- Collaborated with researchers, teachers, and clinicians.
-- Improved data collection, analysis, and reporting workflows.
+- Led work to modernise clinical pharmacology teaching, labs and digital platforms
+- Coordinated between researchers, teachers and clinicians
+- Improved how the department collects and analyses data
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Technical Expertise
-
-<div align="center">
-
-### Programming & Data Analysis
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-417BA0?style=for-the-badge)
-
-### Machine Learning & Research
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
-### Web Development & Databases
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-</div>
-
----
-
-## 🔬 Research & Machine Learning Projects
-
-A selection of my academic research and applied machine learning work.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 Multimodal GRN Discovery
-
-**Deep Learning · Bioinformatics · Multimodal Integration**
-
-Investigated a dual-encoder bridge framework for integrating RNA-seq gene expression and CRISPR knockout dependency data to infer biologically meaningful gene regulatory networks.
-
-**Key areas:** Representation learning, MMD alignment, GENIE3, network inference.
-
-[**Explore Research →**](https://github.com/Shafin11/Multimodal-Bridge-Framework-for-Gene-Regulatory-Network-Discovery)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌍 Urban PM2.5 Forecasting
-
-**Machine Learning · Environmental Data Science**
-
-Developed and evaluated models for next-hour PM2.5 forecasting using atmospheric pollutant and meteorological data from 12 Beijing monitoring stations.
-
-Compared Linear Regression, Decision Tree, Random Forest, XGBoost, and a persistence baseline.
-
-**Reported best R²:** Approximately 0.95.
-
-[**Explore Project →**](https://github.com/Shafin11/Machine-Learning-Based-Prediction-of-Urban-PM2.5-Concentration)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ Vegetation Detection Using Satellite Imagery
-
-**Computer Vision · Remote Sensing**
-
-Explored satellite imagery classification and vegetation coverage estimation using the EuroSAT dataset.
-
-Applied ResNet-50 transfer learning and image-based analysis to investigate land-cover characteristics.
-
-[**Explore Project →**](https://github.com/Shafin11/Vegetation-Detection-Using-Satellite-Imagery-)
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Retail Selling Price Prediction
-
-**Machine Learning · Regression · EDA**
-
-Analyzed a multi-store retail dataset and investigated relationships between selling prices and product-related features.
-
-Compared regression techniques, including Linear Regression, Decision Tree, and neural network-based prediction.
-
-[**Explore Project →**](https://github.com/Shafin11/EDA-Selling-Price-Prediction)
-
-</td>
-</tr>
-</table>
-
----
-
-## 💻 Software & Database Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 E-Commerce Website
-
-**Django · Python · Web Development**
-
-An academic clothing retail application project exploring product management, user accounts, shopping workflows, and database-backed operations.
-
-The repository currently includes partial application files and supporting project materials.
-
-[**View Repository →**](https://github.com/Shafin11/E-Commerce-Website)
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Online Library Management System
-
-**SQL · MariaDB · Database Design**
-
-A relational database project covering books, members, borrowing records, payments, vendors, and related library information.
-
-Includes an Entity-Relationship diagram, schema diagram, and SQL records.
-
-[**View Repository →**](https://github.com/Shafin11/Online-Library-Management-System)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎮 Eat The Fish Game
-
-**Python · PyOpenGL · Computer Graphics**
-
-An interactive 2D arcade game featuring player movement, collision detection, scoring, and game-state management.
-
-Developed using fundamental computer graphics algorithms.
-
-[**View Repository →**](https://github.com/Shafin11/Eat-The-Fish-Game)
-
-</td>
-<td width="50%" valign="top">
-
-### 🩺 Clinical Outcome Prediction
-
-**Machine Learning · Classification**
-
-Explored supervised learning approaches for predicting COVID-19 patient mortality outcomes using clinical records.
-
-Compared classification algorithms and examined their predictive performance.
-
-[**View Repository →**](https://github.com/Shafin11/Behavior-Based-Grade-Prediction-Time-Series-Neural-Network)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 📂 Explore My Complete Portfolio
-
-[![All Repositories](https://img.shields.io/badge/View_All_Repositories-Explore_on_GitHub-374151?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shafin11?tab=repositories)
-
-</div>
-
----
-
+<!-- ===================== EDUCATION & LEADERSHIP ===================== -->
 ## 🎓 Education & Leadership
 
-### 🎓 Academic Background
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**BRAC University**
+**🏛️ BRAC University**<br/>
+B.Sc. in Computer Science<br/>
+<sub>Jan 2021 – Nov 2025</sub>
 
-Bachelor of Science in Computer Science  
-*January 2021 – November 2025*
+**🏫 Rajuk Uttara Model College**<br/>
+HSC (2020) · SSC (2018) — GPA 5.00 / 5.00
 
-**Rajuk Uttara Model College**
+</td>
+<td width="50%" valign="top">
 
-Higher Secondary Certificate — Science  
-Secondary School Certificate — Science
+**🏔️ Chief of Execution**<br/>
+BRAC University Adventure Club · <sub>Jun 2021 – Mar 2025</sub>
 
-### 🤝 Leadership Experience
+**💼 Senior Executive**<br/>
+BRAC University Business Club · <sub>Jun 2021 – Mar 2023</sub>
 
-| Position | Organization | Period |
-|---|---|---|
-| Chief of Execution | BRAC University Adventure Club | Jun 2021 – Mar 2025 |
-| Senior Executive | BRAC University Business Club | Jun 2021 – Mar 2023 |
+**📜 Certifications**<br/>
+Presentation Skills (BRACU) · Improving Communication Skills (Coursera) · Understanding Prompt Engineering (DataCamp)
 
-These experiences helped me develop communication, leadership, coordination, and collaborative problem-solving skills alongside my technical education.
+</td>
+</tr>
+</table>
 
----
-
-## 🌐 Areas of Interest
-
-<div align="center">
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-374151?style=flat-square)
-![Data Science](https://img.shields.io/badge/Data_Science-4B5563?style=flat-square)
-![AI](https://img.shields.io/badge/Artificial_Intelligence-52525B?style=flat-square)
-![Bioinformatics](https://img.shields.io/badge/Bioinformatics-57534E?style=flat-square)
-![Software Development](https://img.shields.io/badge/Software_Development-475569?style=flat-square)
-![Data Analytics](https://img.shields.io/badge/Data_Analytics-4B5563?style=flat-square)
-![IT Infrastructure](https://img.shields.io/badge/IT_Infrastructure-334155?style=flat-square)
-
-</div>
-
----
-
+<!-- ===================== CONNECT ===================== -->
 ## 🤝 Let's Connect
 
-I'm interested in opportunities to contribute to technology-driven projects, collaborate on meaningful ideas, and continue developing my skills in software engineering, machine learning, and data analytics.
-
 <div align="center">
 
-<a href="mailto:omarshafin12@gmail.com">
-  <img src="https://img.shields.io/badge/Email-omarshafin12%40gmail.com-374151?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
-</a>
+I'm open to roles and collaborations in **data, machine learning, software and IT**.<br/>
+If you'd like to work together or just say hello, feel free to reach out.
 
-<a href="https://github.com/Shafin11">
-  <img src="https://img.shields.io/badge/GitHub-Shafin11-111827?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
-</a>
+<br/>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:omarshafin12@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Shafin11?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
 
 <br/><br/>
 
-**Open to professional connections, collaboration, and opportunities to learn.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=Technology+is+most+valuable+when+it+solves+real+problems." alt="Closing line"/>
 
-</div>
-
----
-
-<div align="center">
-
-### Technology is most valuable when it solves real problems.
-
-*Learning continuously. Building thoughtfully. Improving consistently.*
-
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&amp;height=115&amp;section=footer&amp;color=0:141414,100:57534E"
-  width="100%"
-  alt="Footer"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1D4ED8,100:0B3A7E&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
