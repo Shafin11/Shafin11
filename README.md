@@ -10,7 +10,7 @@
 <br/>
 
 <!-- Replace YOUR-LINKEDIN-ID with your LinkedIn profile ID -->
-<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN-ID](https://www.linkedin.com/in/mohammadomarraihan/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/mohammadomarraihan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:omarshafin12@gmail.com"><img src="https://img.shields.io/badge/Email-omarshafin12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Shafin11"><img src="https://img.shields.io/badge/GitHub-Shafin11-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-0B3A7E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
